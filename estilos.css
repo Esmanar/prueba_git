@@ -7,6 +7,10 @@
 body{
   font-family: 'Poiret One', cursive;
 }
+
+section h3{
+  letter-spacing: 3px;
+}
 .texto{
   width: 50%;
   height: 400px;
