@@ -137,4 +137,21 @@ section::-webkit-scrollbar{
 section::-webkit-scrollbar-thumb{
   background: #fff;
   border-radius: 5px;
+  
+}
+
+@media screen and (max-width: 600px ){
+
+  .texto,
+  .texto3{
+    margin: 100px auto;
+    width: 90%;
+    font-size: 20px;
+  }
+  .texto2{
+    margin: -70px auto;
+    width: 90%;
+    font-size: 20px;
+  }
+
 }
